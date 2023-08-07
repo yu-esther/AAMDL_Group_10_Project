@@ -37,4 +37,4 @@ The streamlit server will be started and the webpage is opened with a placeholde
 The sample image can be downloaded and uploaded to make predictions with the application.
 
 References:
-Streamlit • A faster way to build and share data apps. (n.d.). https://streamlit.io/ 
+Streamlit • A faster way to build and share data apps. (n.d.). https://streamlit.io/
