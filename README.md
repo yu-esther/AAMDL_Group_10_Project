@@ -35,3 +35,6 @@ streamlit run app.py
 
 The streamlit server will be started and the webpage is opened with a placeholder to upload an image. 
 The sample image can be downloaded and uploaded to make predictions with the application.
+
+References:
+Streamlit • A faster way to build and share data apps. (n.d.). https://streamlit.io/ 
